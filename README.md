@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 O Habits é um app para ajudar a rastrear os hábitos.
-- [Visite o projeto online](https://vhpaula.github.io/HabitTracker)
+  - [Visite o projeto online](https://vhpaula.github.io/HabitTracker)
 
 
 <br>
