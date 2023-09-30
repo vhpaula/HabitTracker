@@ -1,8 +1,12 @@
 <h1 align="center"> Habits </h1>
 
+<br>
+
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
+
+<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,6 +15,8 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#memo-licença">Licença</a>
 </p>
 
+<br>
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -18,25 +24,40 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src="https://github.com/vhpaula/HabitTracker/blob/main/.github/preview.jpg?raw=true" width="100%">
 </p>
 
-## 🚀 Tecnologias
+<br>
+<br>
+
+<h2> 🚀 Tecnologias </h2>
+
+<br>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+    - HTML e CSS
+    - JavaScript
+    - Git e Github
+    - Figma
 
-## 💻 Projeto
+<br>
+<br>
+
+<h2> 💻 Projeto </h2>
+
+<br>
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://vhpaula.github.io/nlw-setup)
+    - [Visite o projeto online](https://vhpaula.github.io/nlw-setup)
+
+<br>
+<br>
 
 ## 🔖 Layout
+
+<br>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -44,6 +65,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
+<br>
+
+<hr />
+
+<br>
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
