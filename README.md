@@ -49,7 +49,7 @@ O Habits é um app para ajudar a rastrear os hábitos.
 <br>
 <br>
 
-## 🔖 Layout
+<h2> 🔖 Layout </h2>
 
 <br>
 
@@ -58,7 +58,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <br>
 <br>
 
-## :memo: Licença
+<h2> 📰 Licença </h2>
 
 <br>
 
